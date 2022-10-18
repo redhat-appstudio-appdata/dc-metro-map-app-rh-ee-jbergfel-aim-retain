@@ -2,7 +2,6 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 bases:
 - components/java-springboot/base
 - components/nodejs-123/base
-- components/nodejs/base
 - components/webshop-1/base
 - components/webshop-2/base
 - components/webshop-3/base
