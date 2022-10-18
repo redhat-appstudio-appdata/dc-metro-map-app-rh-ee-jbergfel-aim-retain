@@ -5,7 +5,6 @@ bases:
 - components/nodejs-123/base
 - components/nodejs/base
 - components/python-1/base
-- components/python/base
 - components/webshop-1/base
 - components/webshop-2/base
 - components/webshop-3/base
