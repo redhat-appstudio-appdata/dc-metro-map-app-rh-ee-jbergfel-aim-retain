@@ -7,4 +7,5 @@ bases:
 - components/python-1/base
 - components/python/base
 - components/webshop-1/base
+- components/webshop-2/base
 kind: Kustomization
